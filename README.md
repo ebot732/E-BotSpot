@@ -8,7 +8,6 @@ E-BotSpot объединил функции BinSpot, BybitSpot, CommexSpot и Me
 Сайт ботов: https://ebot732.github.io/
 
 
-Теперь в одном боте можно выбирать биржу и работать с ней.
 
 Ссылка для скачивания бота:                        
  https://github.com/ebot732/E-BotSpot/releases/download/E-BotSpot-30/E-BotSpot-30
