@@ -9,12 +9,11 @@ E-BotSpot объединил функции BinSpot, BybitSpot, CommexSpot и Me
 
 
 
-Ссылка для скачивания бота:                        
- https://github.com/ebot732/E-BotSpot/releases/download/E-BotSpot-30/E-BotSpot-30
-
-При регистрации на бирже Bybit по рефссылке использование бота бесплатное.
-Реф ссылка для регистрации на Bybit: https://www.bybit.com/invite?ref=8E183W
-Реф ссылка для регистрации на Commex: https://accounts.commex.com/en/register?ref=NUC4IQEU
+Ссылка для скачивания бота: <br>                       
+ https://github.com/ebot732/E-BotSpot/releases/download/E-BotSpot-30/E-BotSpot-30  <br> 
+При регистрации на бирже Bybit по рефссылке использование бота бесплатное. <br> 
+Реф ссылка для регистрации на Bybit: https://www.bybit.com/invite?ref=8E183W  <br> 
+Реф ссылка для регистрации на Commex: https://accounts.commex.com/en/register?ref=NUC4IQEU  <br> 
 
 
 Бот для торговли для спотовой торговли на криптобиржах Binance, Bybit, CommEX, Mexc с использованием стратегии Мартингейла (усреднения- увеличения позиции с целью улучшения средней цены входа) и выбором растущей монеты (при работе в LONG, или падающей, при работе в SHORT).
